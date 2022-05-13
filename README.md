@@ -2,7 +2,6 @@
 This project needs to create a database in mysql. Phpmyadmin is suggested to create this db.
 There are php codes to create tables and other necessary operations. If connection with database is failed, authentication will not work. 
 when you add all the dependencies and connect the application with flutter it should work 
-A new Flutter project.
 
 ## Getting Started
 
